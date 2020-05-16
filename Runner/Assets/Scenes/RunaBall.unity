@@ -299,7 +299,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.9622642, g: 0.9622642, b: 0.9622642, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -519,22 +519,22 @@ PrefabInstance:
     - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -26
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 150
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 94
+      value: 0.8499985
       objectReference: {fileID: 0}
     - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 200
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
         type: 3}
@@ -544,7 +544,7 @@ PrefabInstance:
     - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
         type: 3}
@@ -554,7 +554,12 @@ PrefabInstance:
     - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958008110231300308, guid: e97f198311876e146b310f8ec976ae0b,
+        type: 3}
+      propertyPath: m_Text
+      value: 'Points  :  00'
       objectReference: {fileID: 0}
     - target: {fileID: 3958008110498196099, guid: e97f198311876e146b310f8ec976ae0b,
         type: 3}

@@ -48,7 +48,7 @@ public class PlayerMovement : MonoBehaviour
             }
             
         }
-        collectiblesObject.text = "Objects: " + numOfCollectors;
+        collectiblesObject.text = "Points: " + numOfCollectors;
     }
 
 
