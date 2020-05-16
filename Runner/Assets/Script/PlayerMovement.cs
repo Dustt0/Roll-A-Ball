@@ -25,7 +25,7 @@ public class PlayerMovement : MonoBehaviour
     {
         //transform.Translate(Vector3.forward * fSpeed * Time.deltaTime);
         rb.velocity = new Vector3(0, 0, fSpeed);
-
+        
 
         if (Input.touchCount > 0 /*&& Input.GetTouch(0).phase == TouchPhase.Stationary*/)
         {

@@ -511,6 +511,51 @@ PrefabInstance:
       propertyPath: m_Name
       value: Objects
       objectReference: {fileID: 0}
+    - target: {fileID: 3958008109547001858, guid: e97f198311876e146b310f8ec976ae0b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -26
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 94
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958008109861025779, guid: e97f198311876e146b310f8ec976ae0b,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3958008110498196099, guid: e97f198311876e146b310f8ec976ae0b,
         type: 3}
       propertyPath: m_Name
@@ -718,6 +763,11 @@ PrefabInstance:
         type: 3}
       propertyPath: deathMenu
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9066356963869969124, guid: c0c3ad7768842ef42a2cb28159a175cc,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 9066356963869969125, guid: c0c3ad7768842ef42a2cb28159a175cc,
         type: 3}
